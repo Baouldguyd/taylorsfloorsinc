@@ -381,8 +381,8 @@ export default function Home() {
                 <i className="fas fa-phone"></i>
                 <div>
                   <h3>Call Us</h3>
-                  <a href="tel:+19173837843">
-                    <p>+1 (917) 383-7843</p>
+                  <a href="tel:+16467969092">
+                    <p>+1 (646) 796-9092</p>
                   </a>
                 </div>
               </div>
